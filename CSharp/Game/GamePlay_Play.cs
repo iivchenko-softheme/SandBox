@@ -14,8 +14,6 @@ namespace CSharp.Game
         public void Update()
         {
             Console.WriteLine(GetType().Name + " Update");
-
-            _owner.Owner
         }
 
         public void Draw()
