@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ASCII.cs" />
     <Compile Include="Diagnostic.cs" />
     <Compile Include="Environment.cs" />
     <Compile Include="FileSystem.cs" />
@@ -62,6 +63,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RegexTests.cs" />
     <Compile Include="Time.cs" />
+    <Compile Include="TypeTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
